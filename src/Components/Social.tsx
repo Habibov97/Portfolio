@@ -7,7 +7,7 @@ const Social: React.FC = () => {
   return (
     <div>
       <div className="flex gap-3 p-3 lg:p-0 text-3xl text-white">
-        <Link target="_blank" to={'https://github.com/Habibov97?tab=repositories'} className="opacity-50 transition-all duration-300 hover:opacity-100" >
+        <Link target="_blank" to={'https://github.com/Habibov97'} className="opacity-50 transition-all duration-300 hover:opacity-100" >
             <FaGithub />
         </Link>
         <Link target="_blank" to={'https://www.linkedin.com/in/najafhabibov/'} className="opacity-50 transition-all duration-300 hover:opacity-100" >
