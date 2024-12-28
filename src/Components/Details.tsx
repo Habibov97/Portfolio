@@ -1,11 +1,11 @@
 import { useEffect, useRef } from "react";
 const skills = [
     { name: "HTML", level: "Competent", width: "76%" },
-    { name: "CSS, TailwindCSS & Bootstrap", level: "Competent", width: "65%" },
+    { name: "CSS, TailwindCSS & Bootstrap", level: "Competent", width: "67%" },
     { name: "JavaScript", level: "Proficient", width: "80%" },
     { name: "React", level: "Advanced", width: "90%" },
     { name: "Git", level: "Good", width: "60%" },
-    { name: "Redux Toolkit", level: "Good", width: "70%" },
+    { name: "Redux Toolkit", level: "Good", width: "60%" },
     { name: "UI design in Figma", level: "Regular", width: "50%" }
 ];
 
