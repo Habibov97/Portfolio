@@ -1,7 +1,7 @@
 import { useEffect, useRef } from "react";
 const skills = [
-    { name: "HTML", level: "Proficient", width: "82%" },
-    { name: "CSS, TailwindCSS & Bootstrap", level: "Proficient", width: "75%" },
+    { name: "HTML", level: "Competent", width: "76%" },
+    { name: "CSS, TailwindCSS & Bootstrap", level: "Competent", width: "65%" },
     { name: "JavaScript", level: "Proficient", width: "80%" },
     { name: "React", level: "Advanced", width: "90%" },
     { name: "Git", level: "Good", width: "60%" },
