@@ -1,8 +1,8 @@
 import { useEffect, useRef } from "react";
 const skills = [
-    { name: "HTML", level: "Competent", width: "76%" },
+    { name: "HTML", level: "Competent", width: "74%" },
     { name: "CSS, TailwindCSS & Bootstrap", level: "Competent", width: "67%" },
-    { name: "JavaScript", level: "Proficient", width: "80%" },
+    { name: "JavaScript", level: "Competent", width: "76%" },
     { name: "React", level: "Advanced", width: "90%" },
     { name: "Git", level: "Good", width: "60%" },
     { name: "Redux Toolkit", level: "Good", width: "60%" },
