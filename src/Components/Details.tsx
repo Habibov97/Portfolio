@@ -2,9 +2,9 @@ import { useEffect, useRef } from "react";
 const skills = [
     { name: "HTML", level: "Competent", width: "74%" },
     { name: "CSS, TailwindCSS & Bootstrap", level: "Competent", width: "67%" },
-    { name: "JavaScript", level: "Competent", width: "76%" },
+    { name: "JavaScript", level: "Competent", width: "75%" },
     { name: "React", level: "Advanced", width: "90%" },
-    { name: "Next.js", level: "Good", width: "65%" },
+    { name: "Next.js", level: "Competent", width: "73%" },
     { name: "Git", level: "Good", width: "60%" },
     { name: "Redux Toolkit", level: "Good", width: "60%" },
     { name: "UI design in Figma", level: "Regular", width: "50%" }
