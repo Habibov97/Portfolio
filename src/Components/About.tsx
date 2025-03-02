@@ -36,7 +36,7 @@ const About: React.FC<setActive> = ({setAbout}) => {
         <div id="about" ref={aboutRef} className="text-white font-Poppin  text-sm">
             <div className="flex flex-col gap-3 p-3 lg:px-3 opacity-50">
                 <p>
-                    Specializing in <strong>JavaScript</strong>, <strong>React</strong>, <strong>HTML</strong> and <strong>CSS</strong>, I have a solid background in developing user-friendly and functional web applications. I use <strong>React</strong> to build interactive user interfaces, making sure that users have a smooth experience across different devices.
+                    Specializing in <strong>Next.js</strong>, <strong>React.js</strong>, <strong>JavaScript</strong>, <strong>HTML</strong> and <strong>CSS</strong>, I have a solid background in developing user-friendly and functional web applications. I use <strong>React</strong> to build interactive user interfaces, making sure that users have a smooth experience across different devices.
                 </p>
                 <p>
                     I keep myself updated with the latest trends in web development, allowing me to incorporate new technologies into my work. My focus on modern web tools drives me to deliver creative results that meet user needs and project goals. I pay close attention to detail, testing and optimizing my applications to ensure they work well and efficiently.
