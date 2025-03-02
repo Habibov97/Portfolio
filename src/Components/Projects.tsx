@@ -35,6 +35,13 @@ const Projects: React.FC<setActive> = ({setProjects}) => {
     
     const projects = [
         {
+            time: "/assets/images/wild-oasis.png",
+            title: 'The Wild Oasis',
+            link: "https://the-wild-oasis-next-js-demo.vercel.app/",
+            description: "Wild Oasis is a hotel reservation platform with a user system where guests can log in, reserve cabins, and manage their bookings. Users can update or cancel their reservations and edit personal details, providing a seamless and efficient booking experience.",
+            technologies: ["Next.js", "React", "NextAuth", "Supabase" ]
+        },
+        {
             time: "/assets/images/baharatci.png",
             title: 'Baharatchi website clone',
             link: "https://baharatci-clone-ecru.vercel.app/",
